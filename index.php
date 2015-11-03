@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello World!";
+echo "Hello click2cloud!";
 
 ?>
