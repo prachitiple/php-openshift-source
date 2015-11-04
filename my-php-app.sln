@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "aa", "aa.phpproj", "{D635C060-E359-4805-B57A-F8ED87D574A6}"
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "my-php-app", "my-php-app.phpproj", "{D635C060-E359-4805-B57A-F8ED87D574A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
